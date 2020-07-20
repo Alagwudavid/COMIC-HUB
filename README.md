@@ -1,2 +1,1 @@
-# COMIC-HUB
-COMIC WORLD
+
